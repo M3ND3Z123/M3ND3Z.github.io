@@ -1,0 +1,73 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+
+nav li{
+  display: inline;
+}
+
+a{
+  background-color: midnightblue;
+  color: orange;
+}
+
+
+ a:hover{
+    color: blue;
+    background-color: red;
+    transition: 250ms;
+}
+
+
+div{
+ width: calc(100% / 2); 
+  float: left;
+}
+
+div img{
+  width:100%
+}
+
+
+body{
+  background-color: gray;
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
